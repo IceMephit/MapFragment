@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="utf-8"?>
+<RelativeLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#ff9999">
+   <Button
+        android:id="@+id/fBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentEnd="true"
+        android:background="@color/cyan"
+        android:text="@string/fBtn"
+        android:textSize="15sp"
+        android:textColor="@color/black" />
+    <Button
+        android:id="@+id/tBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_marginEnd="21dp"
+        android:layout_toStartOf="@+id/fBtn"
+        android:background="@color/yellow"
+        android:text="@string/tBtn"
+        android:textSize="15sp"
+        android:textColor="@color/black" />
+
+    <Button
+        android:id="@+id/mBtn"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:layout_alignParentBottom="true"
+        android:layout_alignParentStart="true"
+        android:background="@color/green"
+        android:text="@string/mBtn"
+        android:textColor="@color/black"
+        android:textSize="15sp" />
+</RelativeLayout>

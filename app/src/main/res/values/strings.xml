@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">TrailFinder Fragments</string>
+    <string name="action_settings">Settings</string>
+    <string name="mBtn">Map</string>
+    <string name="tBtn">Track</string>
+    <string name="fBtn">Favorites</string>
+    <string name="mText">Map Fragment</string>
+    <string name="tText">Track Fragment</string>
+    <string name="fText">Favorites Fragment</string>
+    <string name="menuText">Menu Fragment</string>
+</resources>

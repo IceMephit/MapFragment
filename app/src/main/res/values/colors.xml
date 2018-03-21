@@ -1,0 +1,26 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="black">#000000</color>
+    <color name="white">#ffffff</color>
+    <color name="red">#ff0000</color>
+    <color name="yellow">#ffff00</color>
+    <color name="green">#00ff00</color>
+    <color name="cyan">#00ffff</color>
+    <color name="blue">#0000ff</color>
+    <color name="magenta">#ff00ff</color>
+    <color name="medRed">#990000</color>
+    <color name="medYellow">#999900</color>
+    <color name="medGreen">#009900</color>
+    <color name="medCyan">#009999</color>
+    <color name="medBlue">#000099</color>
+    <color name="medMagenta">#990099</color>
+    <color name="drkRed">#330000</color>
+    <color name="drkYellow">#333300</color>
+    <color name="drkGreen">#003300</color>
+    <color name="drkCyan">#003333</color>
+    <color name="drkBlue">#000033</color>
+    <color name="drkMagenta">#330033</color>
+</resources>
